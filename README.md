@@ -12,9 +12,8 @@ Trilha: Ignite
 Tecnologias: React, React-Native, Node.js, Prisma, Typescript, vária bibliotecas maravilhosas!
 
 
-Tela do Aplicação WEB:
+***Tela do Aplicação WEB:***
 
 ![FrontEnd](https://github.com/lrochaoliveira/NLW-eSports/blob/main/Frontend-WEB.jpeg)
 
 ![BackEnd](https://github.com/lrochaoliveira/NLW-eSports/blob/main/Backend-NODEjs.jpeg)
-
