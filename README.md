@@ -6,3 +6,7 @@ Nessa edição, consegui chegar ao 5/6 etapas que para mim é uma vitória. Mesm
 Foi a primeira maratona de código que realmente posso dizer que participei. Foi muito cansaço, apoio da família e amigos para poder ir até ao meu máximo. Usando minhas horas fora do trabalho até onde dava e dando meu máximo! Foi uma ventura linda e que está registrada aqui no meu GitHub.
 
 Meu desafio pessoal foi colocar a aplicação mobile para rodar usando o Expo Go. Consegui até a página 2. Mas ainda animada em ver essa solução rodando. Mas isso não me impediu e fui pela parte mais viável de emular pela web mesmo. As vezes o feito é melhor do que bem feito!
+
+
+Trilha: Ignite
+Tecnologias: React, React-Native, Node.js, Prisma, Typescript, vária bibliotecas maravilhosas!
