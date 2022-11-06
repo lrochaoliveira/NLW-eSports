@@ -1,4 +1,4 @@
-# NWL eSports 2022
+# NWL #9 - eSports 2022
 NLW é o maior evento online e gratuito de programação na prática com muito código, desafios, networking e um único objetivo: te levar para o próximo nível na carreira de desenvolvimento de softwares. Tanto para programadores veteranos como quem nunca teve contato com programação ainda, é um evento que tira você totalmente da sona de conforto. 
 
 Nessa edição, consegui chegar ao 5/6 etapas que para mim é uma vitória. Mesmo já na área a bastante tempo, procuro me manter um rio de águas fluindo. Colocando-me a todo o tempo a prova de novos desafios.
